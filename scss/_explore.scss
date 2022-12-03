@@ -1,0 +1,34 @@
+.explore{
+    width: 100%;
+    height: 378px;
+    display: flex;
+    background-color: #003459;
+    .explore_list{
+        background-color: red;
+        .item_card{
+            width: 280px;
+            .item_text{
+                color: #003459;
+                margin-top: 20px;
+            }
+            .item_text1{
+                color: #003459;
+                margin-top: 10px;
+            }
+            .btn1{
+                padding: 10px 20px;
+                border: 2px solid #003459;
+                border-radius: 50px;
+                margin: 10px;
+            }
+            .btn2{
+                padding: 10px 20px;
+                border-radius: 50px;
+                background-color: #003459;
+                margin: 10px;
+                color: #fff;
+                
+            }
+        }
+    }
+}
