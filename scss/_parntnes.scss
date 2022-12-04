@@ -1,0 +1,19 @@
+.list3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    .card-text{
+        color: #003459;
+    }
+    .btn3{
+        padding: 10px 20px;
+        border: 2px solid #003459;
+        border-radius: 50px;
+        background-color: #fff;
+    }
+}
+.images{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+}
